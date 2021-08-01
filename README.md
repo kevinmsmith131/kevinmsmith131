@@ -6,5 +6,4 @@
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/kevinmsmith131/) or through my [Email](mailto:kevinmsmith131@gmail.com).
 
-This is my [Resume](https://github.com/kevinmsmith131/kevinmsmith131/files/6913277/Kevin_Smith_Resume.pdf)
-.
+This is my [Resume](https://github.com/kevinmsmith131/kevinmsmith131/files/6913277/Kevin_Smith_Resume.pdf).
