@@ -1,5 +1,5 @@
 ```
-> Software Engineering Intern at Ninkatek
+> Software Engineering Extern at GitHub
 > Junior Computer Science student at the Univeristy of Massachusetts, Amherst
 > Full Stack Web, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 ```
