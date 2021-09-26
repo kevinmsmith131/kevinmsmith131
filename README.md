@@ -1,7 +1,7 @@
 ```
 > Software Engineering Intern at GitHub
 > Software Engineering Fellow at Major League Hacking
-> Junior Computer Science and Mathematics student at the Univeristy of Massachusetts, Amherst
+> Junior Computer Science and Mathematics student at the University of Massachusetts, Amherst
 > Full Stack Web, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 ```
 
