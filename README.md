@@ -1,7 +1,7 @@
 ```
-> Software Engineering Intern at GitHub
-> Junior Computer Science and Mathematics student at the University of Massachusetts, Amherst
-> Full Stack Web, Machine Learning, Deep Learning, Distributed Systems
+> Software Engineering Intern at Google Cloud
+> 3rd Year Computer Science major at the University of Massachusetts, Amherst
+> Deep Learning, Distributed Systems, Cloud Computing, Full Stack Web, Blockchain, Web3
 ```
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/kevinmsmith131/) or through my [Email](mailto:kevinmsmith131@gmail.com).
