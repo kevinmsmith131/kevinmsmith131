@@ -1,7 +1,7 @@
 ```
 - Software Engineering Intern at Google Cloud
 - 3rd Year Computer Science major at the University of Massachusetts, Amherst
-- Software Engineering, Deep Learning, Distributed Systems, Cloud Computing, Web3
+- Software Engineering, Deep Learning, Distributed Systems, Cloud Computing
 ```
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/kevinmsmith131/) or through my [Email](mailto:kevinmsmith131@gmail.com).
