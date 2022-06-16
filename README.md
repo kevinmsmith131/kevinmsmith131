@@ -1,6 +1,6 @@
 ```
 - Software Engineering Intern at Google Cloud
-- 3rd Year Computer Science major at the University of Massachusetts, Amherst
+- Senior Computer Science major at the University of Massachusetts, Amherst
 - Software Engineering, Machine Learning, Distributed Systems, Cloud Computing, High Performance Computing
 ```
 
