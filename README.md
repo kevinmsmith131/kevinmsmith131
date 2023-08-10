@@ -1,5 +1,5 @@
 ```
-- Incoming Software Engineer at Tesla Autopilot
+- Software Engineer at Tesla Autopilot
 - Previous Software Engineering Intern at Google and GitHub
 - Interested in Software Engineering, Full Stack Web Development, Mobile Development, Machine Learning, UI/UX, and Product 
 ```
